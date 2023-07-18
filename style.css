@@ -1,0 +1,8 @@
+*{
+    background-color: aquamarine;
+}
+.form {
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
